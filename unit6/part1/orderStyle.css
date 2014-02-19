@@ -1,0 +1,47 @@
+body {
+	font: normal Arial, sans-serif;
+	color: #0E318F;
+	background: url('background.jpg')top center repeat;
+	background-color: #0E318F;
+}
+
+h1 {
+	font-size: 50px;
+}
+
+
+h1, h2,h3 {
+	text-align: center;
+}
+
+#container {
+	margin: auto;
+	padding-bottom: 2em;
+	width: 600px;
+	height: 100%;
+	background-color: #F2D35A;
+	border: 1px dashed #F30238;
+}
+
+
+table {
+	margin:auto;
+	background-color: #FF92C4;
+}
+
+td {
+	padding: .5em;
+}
+
+#header_row {
+	text-align: center;
+	background-color: #d7d9d9;
+}
+
+#date,#center {
+	text-align: center;
+}
+
+p {
+ 	font-weight: bold;
+}
